@@ -1,4 +1,4 @@
-# Awesome-DeepLearning-Papers
+# Awesome-DeepLearning
 
 A curated list of deep learning of
 - Deep Vision
