@@ -1,8 +1,9 @@
 # Awesome-DeepLearning
 
 A curated list of deep learning of
-- Deep Vision
-- public datasets.
+1. Deep Vision
+1. NLP for Korean
+
 
 Feel free to contribute!
 
